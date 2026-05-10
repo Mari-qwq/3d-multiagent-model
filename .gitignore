@@ -1,0 +1,13 @@
+# Исполняемые файлы C++
+*.exe
+
+# Python кеш
+__pycache__/
+*.pyc
+
+# IDE
+.vs/
+.idea/
+
+# системные файлы
+.DS_Store
